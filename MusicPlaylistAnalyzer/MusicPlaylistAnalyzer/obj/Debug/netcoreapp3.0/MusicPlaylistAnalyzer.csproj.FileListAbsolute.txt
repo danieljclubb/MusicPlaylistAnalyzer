@@ -1,0 +1,11 @@
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.exe
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.deps.json
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.runtimeconfig.json
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.runtimeconfig.dev.json
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.dll
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.pdb
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.AssemblyInfo.cs
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.dll
+C:\Users\danie\Documents\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MusicPlaylistAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\danie\\Documents\\MusicPlaylistAnalyzer\\MusicPlaylistAnalyzer\\MusicPlaylistAnalyzer\\SampleMusicPlaylist.txt C:\\Users\\danie\\Documents\\MusicPlaylistAnalyzer\\MusicPlaylistAnalyzer\\MusicPlaylistAnalyzer\\Report.txt"
+    }
+  }
+}
